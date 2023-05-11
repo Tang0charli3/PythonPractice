@@ -7,3 +7,4 @@ if a==b:
     print("Same")
 else:
     print("Diffrent")
+print("Juice Kudetheya")
