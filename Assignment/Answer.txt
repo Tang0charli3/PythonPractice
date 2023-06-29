@@ -9,3 +9,15 @@
     Use single-quotes for string literals
     use double-quotes for strings that are likely to contain single-quote characters
 
+4. If I want to modify a string, how I can modify.?
+    String is immutable so we can not modify
+
+7. Explain length function, directory function and type function.
+    Length function is used to find the length of the collection
+    Directory function is used to
+    Type function is used to find the data type of the object or variable
+
+10. which and all indexes we can skip in slicing.
+    If Start index is 0 we can skip the index
+    If End Index is the last index of the colection it can be skipped
+    If Update is 1 we can skip it
