@@ -1,0 +1,11 @@
+1. What is string.
+    String is a collection of Characters Enclosed with '',"",''' ''' .
+
+2. difference between mutability and immutability.
+    The Data types which can be edited are called Mutable
+    The Data types which can not be edited are called Immutable
+
+3. What is the difference between single quotes and double quotes when I need to use.
+    Use single-quotes for string literals
+    use double-quotes for strings that are likely to contain single-quote characters
+
